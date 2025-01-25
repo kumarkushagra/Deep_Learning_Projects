@@ -59,7 +59,7 @@ Each directory contains a specific deep learning project, along with a Colab not
 
 ### 3. DRIONS Glaucoma Detection
 **Description:** A deep learning model to detect glaucoma in retinal images using the DRIONS dataset.
-- **Notebook:** [Open notebook](DRISHTI DS/main.ipynb)
+- **Notebook:** [Open notebook]([DRISHTI DS/main.ipynb](https://github.com/kumarkushagra/Deep_Learning_Projects/blob/main/DRISHTI%20DS/main.ipynb))
 - **Key Features:** Medical image analysis with performance evaluation.
 
 ### 4. DRISHTI DS
